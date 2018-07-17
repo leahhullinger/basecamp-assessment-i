@@ -1,15 +1,15 @@
 // #1 create a variable called 'myName' and assign it to your name as a string
 
 // CODE HERE
-
+var myName = "Leah Hullinger"
 // #2 create a variable called 'faveNum' and assign it to your favorite number
-var faveNum = 10;
-// CODE HERE
 
+// CODE HERE
+var faveNum = 10;
 // #3 create a variable called 'lovesCode' and set it to true
 
 // CODE HERE
-
+var lovesCode = true;
 // #4 Using the previously created variables, create a new variable called 'me' that uses the myName and faveNum varible to create a sentence like this 'My name is Bryan and my favorite number is 3'
 
 // CODE HERE
